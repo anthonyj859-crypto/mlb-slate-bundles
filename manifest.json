@@ -1,0 +1,14 @@
+{
+  "slates": [
+    {
+      "date": "2026-09-05",
+      "lineups": 0,
+      "games": 15,
+      "sha256": "c555781069e86c725bfde8c4d32a95f3625a994b379d5e084d429d5c9b16b2a2",
+      "built_at": "2026-09-05 05:05:40.323442",
+      "model_version": "engine_v8",
+      "card_sha256": "feb0b2692345a49e856b956ec1756f10570ab41283dc946394bba7044b406a5f"
+    }
+  ],
+  "updated_at": "2026-09-05 05:05:40.343204"
+}
