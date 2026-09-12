@@ -1,0 +1,23 @@
+{
+  "slates": [
+    {
+      "date": "2026-09-11",
+      "lineups": 15,
+      "games": 15,
+      "sha256": "5b7efdff3e2bb3f134cd1427421b250fff9a1ae66b32aed52b66cf33ddd3ac0f",
+      "built_at": "2026-09-12 00:44:47.692352",
+      "model_version": "engine_v8",
+      "card_sha256": "9dccb5262bf4012422802dc9ca06a385a6fad4f2fbd054fa966e983436ba548f"
+    },
+    {
+      "date": "2026-09-12",
+      "lineups": 0,
+      "games": 15,
+      "sha256": "43f99f4cd96d644b0a52951cbbbf1fde917828aab2f0dae628ceeb7e869f3c8b",
+      "built_at": "2026-09-11 22:12:52.697645",
+      "model_version": "engine_v8",
+      "card_sha256": "46aae5ef4bdfebab57f37ccaad9e841435af3d926775e118bd012a7eb7086498"
+    }
+  ],
+  "updated_at": "2026-09-12 00:44:50.26708"
+}
