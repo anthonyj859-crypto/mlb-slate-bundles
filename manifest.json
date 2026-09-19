@@ -1,0 +1,25 @@
+{
+  "slates": [
+    {
+      "date": "2026-09-19",
+      "lineups": 7,
+      "games": 15,
+      "lineup_games": [
+        "824545",
+        "824788",
+        "822921",
+        "823571",
+        "824380",
+        "823330",
+        "822843"
+      ],
+      "sha256": "08d416574f118391ae3be2afc440f2147fdb344249af09aa72d2de7921fdaf8e",
+      "built_at": "2026-09-19 14:41:57",
+      "model_version": "engine_v11",
+      "calibration_id": "9c699fd9f926",
+      "bundle_built_at": "2026-09-19 14:40:37",
+      "card_sha256": "cc7d556807d4d3f059ba30470605f55c227d5c59e0d8df6e97b7c1802f4357e2"
+    }
+  ],
+  "updated_at": "2026-09-19 14:41:57"
+}
