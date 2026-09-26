@@ -1,0 +1,23 @@
+{
+  "slates": [
+    {
+      "date": "2026-09-26",
+      "lineups": 3,
+      "games": 13,
+      "lineup_games": [
+        "822678",
+        "824219",
+        "822759"
+      ],
+      "sha256": "20a05d541c8b41b301664ed85e9ee6863cebd3f7f94a9e59706045b8c553cfaa",
+      "built_at": "2026-09-26 11:49:53",
+      "model_version": "engine_v14",
+      "calibration_id": "3882fb9c8659",
+      "calibration": "fitted",
+      "code_id": "3dfec508cf09",
+      "bundle_built_at": "2026-09-26 11:47:49",
+      "card_sha256": "9d19b340be3e494d21b4d32d4276450f669781cb0d9cc12e7afe13f8b9903539"
+    }
+  ],
+  "updated_at": "2026-09-26 11:49:53"
+}
